@@ -43,3 +43,11 @@
 <!-- wp:paragraph -->
 <p>Plugin này bạn có thể chỉnh sửa, tuỳ chỉnh theo nhu cầu của mình. </p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chúc bạn đầu tư thành công.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Share by <a href="https://laivanduc.vn/">laivanduc.vn</a></p>
+<!-- /wp:paragraph -->
